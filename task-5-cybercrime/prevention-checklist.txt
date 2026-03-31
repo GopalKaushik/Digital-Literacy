@@ -1,0 +1,34 @@
+Stay Safe Online: A Cybercrime Prevention Checklist for College Students
+
+As digital natives, college students are highly active online, making them prime targets for various cyber threats—from fake internship offers to UPI scams. Use this checklist to secure your digital life.
+
+Financial & UPI Safety
+
+Never enter a UPI PIN to receive money: Remember the golden rule of digital payments in India: Your UPI PIN is ONLY required when money is being deducted from your account. You do not need a PIN to receive funds.
+
+Verify the receiver's identity: Always double-check the VPA (Virtual Payment Address) and the registered name that appears on your screen before authorizing a payment, especially when dealing with unknown sellers for second-hand books, electronics, or paying PG (Paying Guest) deposits.
+
+Beware of part-time job/internship scams: If an online recruiter or a "work-from-home" data entry gig asks you to pay a "registration fee" or "security deposit" upfront, it is a scam. Genuine employers will never ask you to pay to work.
+
+Social Media & Account Security
+
+Enable Two-Factor Authentication (2FA): Turn on 2FA for all your essential apps, including WhatsApp, Instagram, and your primary email account. This prevents unauthorized access even if your password is compromised.
+
+Lock down your privacy settings: Keep your personal social media profiles private. Accept requests only from people you know in real life to prevent your photos from being stolen and morphed for extortion.
+
+Don't overshare your location: Avoid posting real-time updates of your location, campus routines, or travel plans (like posting train tickets with PNRs). Post pictures after you have left the venue.
+
+Browsing & Device Hygiene
+
+Stop and think before clicking: Treat urgent SMS or WhatsApp messages with suspicion—especially those claiming your bank account is blocked, offering free OTT subscriptions, or warning about an impending electricity disconnection. Do not click the links; visit the official app or website instead.
+
+Avoid public Wi-Fi for sensitive tasks: Free Wi-Fi at cafes, malls, or the campus library is often unsecured. Never make financial transactions or log into sensitive portals while connected to these networks without using a reliable VPN.
+
+Emergency Reporting Channels
+If you or a friend fall victim to a cybercrime, acting quickly is crucial—especially in cases of financial fraud, where immediate reporting can help freeze the stolen funds.
+
+National Helpline: Call 1930 immediately to report financial cyber fraud.
+
+Official Portal: File a detailed complaint at the National Cyber Crime Reporting Portal: https://cybercrime.gov.in/
+
+Local Authorities: You can also approach the cyber cell of your local police station. Always keep screenshots of transactions, chats, and phone numbers as evidence.
